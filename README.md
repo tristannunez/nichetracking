@@ -2,7 +2,7 @@
 
 This github repository includes the folders and code used in the manuscript "Species traits mediate niche tracking in variable climates."
 
-The folder "downloaded_data_in" contains a folder called "PRISM" and a csv file called holdridge_thresholds.csv. You will need to download the following .zip files from the PRISM website, and unzip them into the PRISM folder in "downloade_data_in":
+The folder "downloaded_data_in" contains a folder called "PRISM" and a csv file called holdridge_thresholds.csv. You will need to download the following .zip files from the PRISM website at http://www.prism.oregonstate.edu/explorer/, and unzip them into the PRISM folder in "downloaded_data_in":
 PRISM_ppt_stable_4kmM2_189501_198012_bil
 PRISM_tmean_stable_4kmM2_189501_198012_bil
 
