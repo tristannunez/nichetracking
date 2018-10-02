@@ -1,0 +1,31 @@
+hexno,type,maBt_high,maBt_low,maBt_mid,atap_high,atap_low,atap_mid,lat_reg,alt_belt
+1,desert,48,24,33.9411255,125,62.5,88.38834765,tropical,basal
+2,desert scrub,48,24,33.9411255,250,125,176.7766953,tropical,basal
+3,thorn woodland,48,24,33.9411255,500,250,353.5533906,tropical,basal
+4,very dry forest,48,24,33.9411255,1000,500,707.1067812,tropical,basal
+5,dry forest,48,24,33.9411255,2000,1000,1414.213562,tropical,basal
+6,moist forest,48,24,33.9411255,4000,2000,2828.427125,tropical,basal
+7,wet forest,48,24,33.9411255,8000,4000,5656.854249,tropical,basal
+8,rain forest,48,24,33.9411255,16000,8000,11313.7085,tropical,basal
+9,desert,24,12,16.97056275,125,62.5,88.38834765,warm temperate or subtropical,lower montane or premontane
+10,desert scrub,24,12,16.97056275,250,125,176.7766953,warm temperate or subtropical,lower montane or premontane
+11,thorn steppe or woodland,24,12,16.97056275,500,250,353.5533906,warm temperate or subtropical,lower montane or premontane
+12,dry forest,24,12,16.97056275,1000,500,707.1067812,warm temperate or subtropical,lower montane or premontane
+13,moist forest,24,12,16.97056275,2000,1000,1414.213562,warm temperate or subtropical,lower montane or premontane
+14,wet forest,24,12,16.97056275,4000,2000,2828.427125,warm temperate or subtropical,lower montane or premontane
+15,rain forest,24,12,16.97056275,8000,4000,5656.854249,warm temperate or subtropical,lower montane or premontane
+16,desert,12,6,8.485281374,125,62.5,88.38834765,cool temperate,montane
+17,desert scrub,12,6,8.485281374,250,125,176.7766953,cool temperate,montane
+18,steppe,12,6,8.485281374,500,250,353.5533906,cool temperate,montane
+19,moist forest,12,6,8.485281374,1000,500,707.1067812,cool temperate,montane
+20,wet forest,12,6,8.485281374,2000,1000,1414.213562,cool temperate,montane
+21,rain forest,12,6,8.485281374,4000,2000,2828.427125,cool temperate,montane
+22,desert,6,3,4.242640687,125,62.5,88.38834765,boreal,subalpine
+23,dry scrub,6,3,4.242640687,250,125,176.7766953,boreal,subalpine
+24,moist forest,6,3,4.242640687,500,250,353.5533906,boreal,subalpine
+25,wet forest,6,3,4.242640687,1000,500,707.1067812,boreal,subalpine
+26,rain forest,6,3,4.242640687,2000,1000,1414.213562,boreal,subalpine
+27,dry tundra,3,1.5,2.121320344,125,62.5,88.38834765,subpolar,alpine
+28,moist tundra,3,1.5,2.121320344,250,125,176.7766953,subpolar,alpine
+29,wet tundra,3,1.5,2.121320344,500,250,353.5533906,subpolar,alpine
+30,rain tundra,3,1.5,2.121320344,1000,500,707.1067812,subpolar,alpine
